@@ -1,4 +1,4 @@
-Sentiment Analysis Python 🤗 [YouTube Tutorial]
+Sentiment Analysis Python 
 Overview
 
 This notebook demonstrates how to perform sentiment analysis in Python, focusing on comparing a lexicon-based method (VADER) versus transformer models (e.g. RoBERTa) using a real text dataset. 
